@@ -17,7 +17,7 @@ This project provides data-driven solutions applicable to the AirBnb and telecom
 
 ## Technologies Used
 
-- **HTML** (100%)
+- **PYTHON** (100%)
 
 ## Usage
 
