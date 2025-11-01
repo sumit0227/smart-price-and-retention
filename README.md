@@ -108,10 +108,4 @@ To build a machine learning model that reliably predicts customer churn for a te
 ***
 
 ## Conclusion
-
 This project delivers practical ML solutions for price prediction and churn classification, combined with deep insights obtained from preprocessing and feature importance analyses. It showcases end-to-end workflow from raw data to actionable models for business applications.
-
-
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/118753464/317c951e-fb27-409a-a0b5-ef317875f76e/PART-A.ipynb)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/118753464/d2e5ac58-7b4c-4a5b-b541-25a2d2383547/PART-B.ipynb)
